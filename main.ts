@@ -159,4 +159,4 @@ let sack = sprites.create(img`
 . . . . . . . . . . . . . . . . . . . . . . . . . . c c c . . . 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 `, SpriteKind.Player)
-sack.setPosition(18, 86)
+sack.setPosition(9, 34)

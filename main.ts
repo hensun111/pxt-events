@@ -123,7 +123,7 @@ e 3 d 3 3 3 3 3 3 3 d 3 3 3 3 3 3 3 3 3 1 3 6 b e e b b e . . .
 . . . . . . . . e e e e f f f f f e e . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 `, SpriteKind.Player)
-poo.setPosition(50, 15)
+poo.setPosition(160, 15)
 game.showLongText("sack", DialogLayout.Bottom)
 let sack = sprites.create(img`
 . . . . . . . . . . b b b b b b . . . . . . . . . . . . . . . . 
